@@ -74,3 +74,5 @@ def TextToSpeech(Text):
 
       else:
             Speak(Text)
+
+TextToSpeech("ME hindi me bhi achei trike se bata skata hu")
